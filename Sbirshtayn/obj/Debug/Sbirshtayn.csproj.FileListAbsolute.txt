@@ -1,0 +1,6 @@
+C:\xampp\htdocs\Sbirshtayn\bin\Debug\Sbirshtayn.exe.config
+C:\xampp\htdocs\Sbirshtayn\bin\Debug\Sbirshtayn.exe
+C:\xampp\htdocs\Sbirshtayn\bin\Debug\Sbirshtayn.pdb
+C:\xampp\htdocs\Sbirshtayn\obj\Debug\Sbirshtayn.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Sbirshtayn\obj\Debug\Sbirshtayn.exe
+C:\xampp\htdocs\Sbirshtayn\obj\Debug\Sbirshtayn.pdb

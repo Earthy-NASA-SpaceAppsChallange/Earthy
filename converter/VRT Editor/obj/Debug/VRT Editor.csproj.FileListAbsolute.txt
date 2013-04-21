@@ -1,0 +1,12 @@
+C:\xampp\htdocs\EarthTiles\VRT Editor\bin\Debug\VRT Editor.exe.config
+C:\xampp\htdocs\EarthTiles\VRT Editor\bin\Debug\VRT Editor.exe
+C:\xampp\htdocs\EarthTiles\VRT Editor\bin\Debug\VRT Editor.pdb
+C:\xampp\htdocs\EarthTiles\VRT Editor\obj\Debug\VRT Editor.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\EarthTiles\VRT Editor\obj\Debug\VRT Editor.exe
+C:\xampp\htdocs\EarthTiles\VRT Editor\obj\Debug\VRT Editor.pdb
+D:\Telerik\Nasa Space Apps Challenge\VRT Editor\bin\Debug\VRT Editor.exe.config
+D:\Telerik\Nasa Space Apps Challenge\VRT Editor\obj\Debug\VRT Editor.exe
+D:\Telerik\Nasa Space Apps Challenge\VRT Editor\obj\Debug\VRT Editor.pdb
+D:\Telerik\Nasa Space Apps Challenge\VRT Editor\bin\Debug\VRT Editor.exe
+D:\Telerik\Nasa Space Apps Challenge\VRT Editor\bin\Debug\VRT Editor.pdb
+D:\Telerik\Nasa Space Apps Challenge\VRT Editor\obj\Debug\VRT Editor.csprojResolveAssemblyReference.cache
